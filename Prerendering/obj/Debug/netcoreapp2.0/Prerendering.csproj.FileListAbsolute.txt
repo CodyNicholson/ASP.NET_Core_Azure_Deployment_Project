@@ -1,0 +1,11 @@
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\bin\Debug\netcoreapp2.0\Prerendering.deps.json
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\bin\Debug\netcoreapp2.0\Prerendering.runtimeconfig.json
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\bin\Debug\netcoreapp2.0\Prerendering.runtimeconfig.dev.json
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\bin\Debug\netcoreapp2.0\Prerendering.dll
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\bin\Debug\netcoreapp2.0\Prerendering.pdb
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\obj\Debug\netcoreapp2.0\Prerendering.csprojAssemblyReference.cache
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\obj\Debug\netcoreapp2.0\Prerendering.csproj.CoreCompileInputs.cache
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\obj\Debug\netcoreapp2.0\Prerendering.AssemblyInfoInputs.cache
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\obj\Debug\netcoreapp2.0\Prerendering.AssemblyInfo.cs
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\obj\Debug\netcoreapp2.0\Prerendering.dll
+C:\Users\cody.nicholson\GitHub\ASPNET_Core_Tutorial_Project\Prerendering\obj\Debug\netcoreapp2.0\Prerendering.pdb
