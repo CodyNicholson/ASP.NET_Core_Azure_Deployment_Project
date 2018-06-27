@@ -1,0 +1,6 @@
+<div id="my-spa" 
+    asp-prerender-module="ClientApp/dist/main-server"
+    asp-prerender-data="new {
+        IsAdministrator = true,
+        Cookies = ViewContext.HttpContext.Request.Cookies
+    }"></div>>

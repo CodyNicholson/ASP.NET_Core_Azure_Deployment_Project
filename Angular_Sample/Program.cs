@@ -26,8 +26,6 @@ namespace Angular_Sample
                 .UseIISIntegration()
                 .UseStartup<Startup>()
                 .Build();
-            
-            //BuildWebHost(args).Run();
 
             host.Run();
         }
