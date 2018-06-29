@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\cody.nicholson\\GitHub\\ASPNET_Core_Tutorial_Project\\Prerendering\\Prerendering.csproj",
+      "projectUniqueName": "c:\\Users\\cody.nicholson\\GitHub\\ASPNET_Core_Tutorial_Project\\Server-side_Prerendering\\Prerendering.csproj",
       "projectName": "Prerendering",
-      "projectPath": "c:\\Users\\cody.nicholson\\GitHub\\ASPNET_Core_Tutorial_Project\\Prerendering\\Prerendering.csproj",
+      "projectPath": "c:\\Users\\cody.nicholson\\GitHub\\ASPNET_Core_Tutorial_Project\\Server-side_Prerendering\\Prerendering.csproj",
       "packagesPath": "C:\\Users\\cody.nicholson\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\cody.nicholson\\GitHub\\ASPNET_Core_Tutorial_Project\\Prerendering\\obj\\",
+      "outputPath": "c:\\Users\\cody.nicholson\\GitHub\\ASPNET_Core_Tutorial_Project\\Server-side_Prerendering\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

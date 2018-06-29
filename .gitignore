@@ -1,4 +1,5 @@
 .vscode
-Angular_Sample/node_modules
+Angular_Scoping_Styles/node_modules
+Angular_Loading_Styles_Webpack_W_JS/node_modules
 React_Sample/node_modules
-Server-side_Prerendering/node_modules
+Server-Side_Prerendering/node_modules

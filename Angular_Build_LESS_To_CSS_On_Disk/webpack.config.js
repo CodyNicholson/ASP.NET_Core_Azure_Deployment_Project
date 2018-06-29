@@ -3,6 +3,7 @@ const webpack = require('webpack');
 const merge = require('webpack-merge');
 const AotPlugin = require('@ngtools/webpack').AotPlugin;
 const CheckerPlugin = require('awesome-typescript-loader').CheckerPlugin;
+const extractStyles = new (require('extract-text-webpack-plugin'))('mystyles.css');
 
 module.exports = (env) => {
     // Configuration in common to both client-side and server-side bundles
@@ -20,10 +21,14 @@ module.exports = (env) => {
                 { test: /\.ts$/, use: isDevBuild ? ['awesome-typescript-loader?silent=true', 'angular2-template-loader', 'angular2-router-loader'] : '@ngtools/webpack' },
                 { test: /\.html$/, use: 'html-loader?minimize=false' },
                 { test: /\.css$/, use: [ 'to-string-loader', isDevBuild ? 'css-loader' : 'css-loader?minimize' ] },
+                { test: /\.less$/, loader: extractStyles.extract('css-loader!less-loader') },
                 { test: /\.(png|jpg|jpeg|gif|svg)$/, use: 'url-loader?limit=25000' }
             ]
         },
-        plugins: [new CheckerPlugin()]
+        plugins: [
+            new CheckerPlugin(),
+            extractStyles
+        ]
     };
 
     // Configuration for client-side bundle suitable for running in browsers
